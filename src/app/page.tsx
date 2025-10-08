@@ -1,4 +1,4 @@
-import { HomeSection } from "@/pages/home";
+import { HomeSection } from "@/modules/home";
 
 export default function Home() {
   return (
